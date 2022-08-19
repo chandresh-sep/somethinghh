@@ -1,0 +1,40 @@
+body
+{
+    background-color: gold;
+}
+
+h1
+{
+    font-size: 45px;
+    text-align: center;
+    color: black;
+    font-weight: 600;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.note
+{
+    font-size: 15;
+    color: black;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border: 10px solid whitesmoke;
+    border-radius: 20px;
+    border-style: ridge;
+    box-shadow: 5px, 5px, 5px grey;
+}
